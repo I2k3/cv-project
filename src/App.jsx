@@ -8,7 +8,7 @@ function App() {
       <div className={classes.main}>
         <div className={classes.section}>
           <div className={classes.left}>
-            <img src="../public/2.jpg" alt="Avatar" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/cv-54f4e.appspot.com/o/2.jpg?alt=media&token=53875de5-e47e-4050-a06e-4dfabd4c31b6" alt="Avatar" />
           </div>
           <div className={`${classes.right} ${classes.itCenter}`}>
             <div className={classes.title}>
