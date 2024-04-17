@@ -8,7 +8,7 @@ function App() {
       <div className={classes.main}>
         <div className={classes.section}>
           <div className={classes.left}>
-            <img src="/2.jpg" alt="Avatar" />
+            <img src="../public/2.jpg" alt="Avatar" />
           </div>
           <div className={`${classes.right} ${classes.itCenter}`}>
             <div className={classes.title}>
@@ -44,7 +44,7 @@ function App() {
               Soy una persona apasionada por la tecnología y la programación. Como técnico en programación y estudiante de ingeniería de software, 
               tengo una sólida base en el desarrollo de software y un enfoque proactivo para aprender nuevas habilidades.
                Me encanta participar en cursos y proyectos que me permitan mejorar continuamente mis conocimientos y habilidades en el campo. 
-               Soy conocido por mi capacidad para adaptarme rápidamente a nuevos entornos y formas de trabajo, lo que me permite enfrentar desafíos con confianza y determinación.
+               Soy conocida por mi capacidad para adaptarme rápidamente a nuevos entornos y formas de trabajo, lo que me permite enfrentar desafíos con confianza y determinación.
               </p>
             </div>
           </div>
