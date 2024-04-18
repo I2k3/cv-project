@@ -90,3 +90,14 @@ progress::-webkit-progress-value {
 .edu h4 {
   @apply p-0 m-0 font-light text-purple-500;
 }
+
+.edu1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}

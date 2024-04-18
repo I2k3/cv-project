@@ -90,6 +90,12 @@ function App() {
               Habilidad de colaboracion eficiente en un entorno respetuoso.
               </p>
             </div>
+            <div className={classes.skill}>
+              <h4>Disponibilidad de horario</h4>
+              <p>
+              Cuento con la capacidad de gestionar mi tiempo de manera eficiente para cumplir con los plazos establecidos y lograr los objetivos.
+              </p>
+            </div>
           </div>
         </div>
         <div className={classes.section}>
@@ -146,6 +152,40 @@ function App() {
             </div>
           </div>
         </div>
+       
+
+        <div className={classes.section}>
+          <div className={classes.left}>
+            <h3>Experiencia Laboral</h3>
+          </div>
+          <div className={classes.right}>
+            <div className={classes.edu1}>
+              <div className="left">
+                <p>2023</p>
+                <h4>Aplicacion AreBoFitness</h4>
+                <p>Orizaba, Ver</p>
+              </div>
+              <div>
+              <p><strong>Gestion del proyecto y Diseñadora </strong></p>
+              Fue un proyecto creado para la empresa AreBoFitness para la gestion y Administracion completa del gym.
+              </div>
+            </div>
+            <div className={classes.edu1}>
+              <div className="left">
+                <p>2023</p>
+                <h4>Aplicación Educativa</h4>
+                <p>Ixtac, Ver</p>
+              </div>
+              <div>
+              <p> <strong>Diseñadora</strong></p>
+              Diseño y desarrollo de recursos multimedia para videojuego educativo en la facultad de negocios y tecnologías con la ayuda del la empresa GeCosoft.
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
         <div className={classes.section}>
           <div className={classes.left}>
             <h3>Cursos y Certificaciones</h3>
